@@ -165,11 +165,6 @@ input[type=submit] {
   /* background-image: url("https://source.unsplash.com/Ai2TRdvI6gM/1600x900");
   filter: brightness(.8); 
   тут можливий фоновий малюнок, або фото*/
-=======
-  background-image: url("https://source.unsplash.com/Ai2TRdvI6gM/1600x900");
-  filter: brightness(.8);
-
-
 }
 
 .overlay--contact:before {
@@ -177,10 +172,6 @@ input[type=submit] {
   /* background-image: url("https://source.unsplash.com/nZiKLMN09H8/1600x900");
   filter: brightness(.7); 
   тут можливий фоновий малюнок, або фото*/
-=======
-  background-image: url("https://source.unsplash.com/nZiKLMN09H8/1600x900");
-  filter: brightness(.7);
-
 }
 
 /*
