@@ -601,3 +601,8 @@ input[type=submit] {
 .menu-button__lines--open .menu-button__line:nth-child(3) {
   transform: rotate(-45deg) scale(1.6);
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
